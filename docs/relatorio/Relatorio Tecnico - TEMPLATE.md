@@ -35,7 +35,7 @@ Vinícius Miranda de Araújo e Yago Almeida
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
   - [Controle de Versão](#controle-de-versão)
-- [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
+- [**############## FIM - SPRINT 1 #############**](#-fim---sprint-1-)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
@@ -206,7 +206,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nós utilizamos a método Scrum, divindo o nosso projeto em 4 Sprints e fazemos reuniões diárias para discurtir o que fizemos e o que vamos fazer. Então, dado que o somos apenas duas pessoas no projeto, dividimos as tarefas meio a meio de modo que nenhuma das partes fique sobrecarregada e que seja possível realizar as funções da melhor maneira posível.
+
+Além disso, em relação as ferramentas, utilizamos as ferramentas sugeridas pelos nossos mentores bbb.
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
@@ -226,12 +228,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  Vinícius: responsável por fazer o miro e o github;
-        Yago: responsável por fazer o relatório técnico e a apresentação ......
+- Vinícius: responsável por fazer o miro e o github;
+- Yago: responsável por fazer o relatório técnico e a apresentação.
 
 ## Ferramentas
-
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
@@ -242,12 +242,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
 A ferramenta de controle de versão adotada no projeto foi o
 [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório `upstream`.
  
@@ -264,11 +258,7 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
-
-# **############## SPRINT 1 ACABA AQUI #############**
+# **############## FIM - SPRINT 1 #############**
 
 
 # Projeto da Solução
