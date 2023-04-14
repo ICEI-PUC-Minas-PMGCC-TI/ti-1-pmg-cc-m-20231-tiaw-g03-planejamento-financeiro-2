@@ -5,7 +5,7 @@ VY Finanças
 
 `CURSO` 
 
-Ciência da Computação
+Ciência da Computação asdasd
 
 ## Participantes
 
