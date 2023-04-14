@@ -5,7 +5,7 @@ VY Finanças
 
 `CURSO` 
 
-Ciência da Computação asdasd
+Ciência da Computação
 
 ## Participantes
 
@@ -65,15 +65,13 @@ A nossa motivação veio devido ao fato de vermos tantos amigos e conhecidos com
 
 ## Público-Alvo
 
- O nosso público-alvo são principalmente os jovens adultos, ou seja, pessoas entre 20 a 30 anos aproximadamente, isso por que dado observações pôde-se concluir que este é um grupo que mais encontra pessoas com dívidas e dificuldades de se planejar, organizar-se financeiramente e, também, por ter uma maior facilidade com a tecnologia. Apesar disso, o produto que desenvolveremos poderá ser utilizado por qualquer pessoa de qualquer idade, pois não queremos ficar tão restritos e poder ajudar à todos nessa dificuldade que é se organizar.  ......
+ O nosso público-alvo são principalmente os jovens adultos, ou seja, pessoas entre 20 a 30 anos aproximadamente, isso por que dado observações pôde-se concluir que este é um grupo que mais encontra pessoas com dívidas e dificuldades de se planejar, organizar-se financeiramente e, também, por ter uma maior facilidade com a tecnologia. Apesar disso, o produto que desenvolveremos poderá ser utilizado por qualquer pessoa de qualquer idade, pois não queremos ficar tão restritos e poder ajudar à todos nessa dificuldade que é se organizar.
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto aborda nossa pesquisa para rastrear o cliente e compreender suas dores para que possamos ajudá-las. Além disso, mostra os requisitos funcionais e não-funicionais do projeto, isto é, uma classificação das nossas ideias para nos organizar e manter alinhados.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+Ademais, este documento apresenta o wireframe do projeto mostrando todo o fluxo de telas que o usuário ouderá fazer e, também, mostra a metodologia utilizada assim como as ferramentas uitlizadas.
 
 ## Personas, Empatia e Proposta de Valor
 
@@ -100,19 +98,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+| Estudante | Pagamentos Automáticos | Não esquecer de pagar a fatura |
+| Estagiário | Economizar | Comprar uma casa, um carro |
+| Trabalhador | Controlar os gastos | Não gastar em coisas desnecessárias |
 
 ## Requisitos
 
@@ -122,10 +110,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Registro de dados do usuário | ALTA | 
+|RF-001| Registro de dados do usuário | ALTA |
 |RF-002| Criação de um orçamento mensal personalizado para o usuário com base em seus dados financeiros | ALTA |
 |RF-003| Rastreamento de gastos e receitas em tempo real | ALTA |
-|RF-004| Notificação ao usuário sobre vencimento de prazos, incluindo datas de pagamento de contas, faturas e outras obrigações financeiras|----|
+|RF-004| Notificação ao usuário sobre vencimento de prazos, incluindo datas de pagamento de contas, faturas e outras obrigações financeiras| ALTA |
 |RF-005| Gerenciamento de cartão de crédito, incluindo notificações de vencimento da fatura e limites de crédito| ALTA |
 |RF-006| Programação de pagamentos automáticos com base nos dados fornecidos pelo usuário| ALTA |
 |RF-007| Possibilidade de categorização de despesas e receitas para análise e relatórios.| ALTA |
@@ -138,8 +126,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Segurança: proteção dos dados do usuário, incluindo informações financeiras e bancárias |  ALTA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA |
+|RNF-002| Segurança: proteção dos dados do usuário, incluindo informações financeiras e bancárias | ALTA |
 |RNF-003| Confiabilidade: garantia de que o aplicativo estará disponível e funcional quando necessário | ALTA |
 |RNF-004| Usabilidade: interface de usuário intuitiva e fácil de usar | ALTA |
 |RNF-005| Performance: tempo de resposta rápido e sem atrasos no processamento de dados | ALTA |
@@ -206,25 +194,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-Nós utilizamos a método Scrum, divindo o nosso projeto em 4 Sprints e fazemos reuniões diárias para discurtir o que fizemos e o que vamos fazer. Então, dado que o somos apenas duas pessoas no projeto, dividimos as tarefas meio a meio de modo que nenhuma das partes fique sobrecarregada e que seja possível realizar as funções da melhor maneira posível.
+Nós utilizamos o método Scrum, divindo o nosso projeto em 4 Sprints e fazemos reuniões diárias para discurtir o que fizemos e o que vamos fazer. Então, dado que o somos apenas duas pessoas no projeto, dividimos as tarefas meio a meio de modo que nenhuma das partes fique sobrecarregada e que seja possível realizar as funções da melhor maneira posível.
 
 Além disso, em relação as ferramentas, utilizamos as ferramentas sugeridas pelos nossos mentores, são elas: o [Miro](https://miro.com), o [GitHub](https://github.com) e o [Figma](https://www.figma.com).
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
 

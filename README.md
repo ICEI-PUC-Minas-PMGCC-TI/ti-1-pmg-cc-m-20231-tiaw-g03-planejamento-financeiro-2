@@ -12,7 +12,7 @@ O nosso projeto visa solucionar o problema da falta de organização e planejame
 ## Professores responsáveis
 
 * João Carlos Oliveira Caetano
-* Fátima ?
+* Simone
 
 ## Instruções de utilização
 
