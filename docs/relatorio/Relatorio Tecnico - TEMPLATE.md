@@ -208,7 +208,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 Nós utilizamos a método Scrum, divindo o nosso projeto em 4 Sprints e fazemos reuniões diárias para discurtir o que fizemos e o que vamos fazer. Então, dado que o somos apenas duas pessoas no projeto, dividimos as tarefas meio a meio de modo que nenhuma das partes fique sobrecarregada e que seja possível realizar as funções da melhor maneira posível.
 
-Além disso, em relação as ferramentas, utilizamos as ferramentas sugeridas pelos nossos mentores bbb.
+Além disso, em relação as ferramentas, utilizamos as ferramentas sugeridas pelos nossos mentores, são elas: o [Miro](https://miro.com), o [GitHub](https://github.com) e o [Figma](https://www.figma.com).
 
 > Nesta parte do documento, você deve apresentar a metodologia 
 > adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
