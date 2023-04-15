@@ -50,10 +50,12 @@ Vinícius Miranda de Araújo e Yago Almeida
 
 ## Problema
 
-O problema é a falta de organização e planejamento financeiro que os jovens adultos enfrentam 
-devido a falta de conhecimento sobre o assunto ou por não ter sido ensinado pela família e que, 
-por isso, enfrentam problemas comuns de dívidas, pagamentos atrasados, falta de organização, 
-entre outros.
+Com a era da informação, junto com o capitalismo, o ser humano passou a produzir mais do que devia e a gastar mais do que recebe. O planejamento financeiro permite uma melhor organização das finanças, evitando desperdícios e gastos desnecessários. Com isso, é possível economizar e investir em objetivos futuros.
+
+Além disso, o controle financeiro diminui o risco de ter dívidas e inadimplência. Quando se tem um planejamento financeiro, é possível verificar as despesas mensais e adequá-las à renda disponível, evitando gastos que ultrapassem o orçamento. Isso também ajuda a evitar o endividamento, que pode levar a juros altos e até mesmo à negativação do nome.
+
+Portanto, o controle financeiro também pode trazer mais tranquilidade e segurança para o indivíduo. Saber que se tem um planejamento financeiro bem estruturado traz mais estabilidade emocional, reduzindo a ansiedade em relação ao futuro e trazendo mais confiança para tomar decisões importantes. Dessa forma, é possível viver com mais qualidade de vida e aproveitar as oportunidades que a vida oferece, sem se preocupar excessivamente com questões financeiras.
+
 
 ## Objetivos
 
@@ -62,6 +64,11 @@ O objetivo do nosso projeto é desenvolver um site em que a pessoa coloque seus 
 ## Justificativa
 
 A nossa motivação veio devido ao fato de vermos tantos amigos e conhecidos com muitos problemas financeiros e foi a partir daí que surgiu a vontade e ideia de trabalhar nessa aplicação, queremos fazer com que todos possam se organizar da melhor maneira possível independente de qualquer coisa, isto é, mesmo sem ter tido oportunidade de aprender sobre gestão financeira ou de não ter sido ensinado para a pessoa.
+
+Uma matéria da BBC News Brasil, divulgada em fevereiro de 2023, cita que em 2022, 78 de 100 famílias brasileiras estão endividadas, além de que esse percentual teve um aumento desde o ano de 2020. Um agravante dessa situação é a taxa básica de juros que está em 13,75% – nível que tem sido motivo de embates entre o governo e o Banco Central.
+
+Izis Ferreira, economista da CNC, afirma que três fatores contribuíram para esse recorde de endividamento em 2022: a alta da inflação até a metade do ano, que corroeu o poder de compra das famílias; o incentivo crescente ao uso do cartão de crédito, através da oferta de novos produtos e serviços por bancos e fintechs; e, para os mais ricos, a demanda represada por serviços, como viagens e compra de passagens aéreas, geralmente pagos no cartão.
+
 
 ## Público-Alvo
 
@@ -211,7 +218,7 @@ Além disso, em relação as ferramentas, utilizamos as ferramentas sugeridas pe
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYJ6j-0=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-g03-planejamento-financeiro-2.git | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/xyPMNUrVjz6LACIxQUbLMB/WireFrames?node-id=0-1&t=oIa1F5NRXNfNV29j-0 | 
 
 ## Controle de Versão
 
@@ -317,5 +324,6 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 > no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
+> - [Notícia da BBC Brasil](https://www.bbc.com/portuguese/articles/c257e50r9rlo)
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
