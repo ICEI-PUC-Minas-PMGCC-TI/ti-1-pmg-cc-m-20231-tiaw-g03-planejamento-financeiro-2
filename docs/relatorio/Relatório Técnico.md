@@ -179,15 +179,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ![](images/entrar.png)
 
-5 - Ao clicar o usuário irá ser direcionado ao uma página na qual ele colocará seus dados para criar uma conta.
+6 - Ao clicar o usuário irá ser direcionado ao uma página na qual ele colocará seus dados para criar uma conta.
 
 ![](images/cadastro.png)
 
-6 - Após se cadastrar o usuário irá preencher um formulário com mais dados para o nosso sistema criar um perfil para ele.
+7 - Após se cadastrar o usuário irá preencher um formulário com mais dados para o nosso sistema criar um perfil para ele.
 
 ![](images/formulário.png)
 
-7 - Após clicar em entrar, ou ter feito o processo de cadastro e preenchimento do formulário, o usuário estará apto a utilizar os serviços disponibilizados no nosso sistema.
+8 - Após clicar em entrar, ou ter feito o processo de cadastro e preenchimento do formulário, o usuário estará apto a utilizar os serviços disponibilizados no nosso sistema.
 
 ![](images/planejamento.png)
 
