@@ -210,7 +210,6 @@ Além disso, em relação as ferramentas, utilizamos as ferramentas sugeridas pe
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYJ6j-0=/ | 
 |Repositório de código | GitHub | https://github.com/ICEI-PUC-Minas-PMGCC-TI/ti-1-pmg-cc-m-20231-tiaw-g03-planejamento-financeiro-2.git | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
 |Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/file/xyPMNUrVjz6LACIxQUbLMB/WireFrames?node-id=0-1&t=oIa1F5NRXNfNV29j-0 | 
 
 ## Controle de Versão
