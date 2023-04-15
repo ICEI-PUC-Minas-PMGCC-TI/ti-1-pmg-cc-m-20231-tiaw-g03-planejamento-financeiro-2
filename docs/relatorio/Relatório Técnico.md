@@ -153,50 +153,43 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
-
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
-
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
-
+![UserFlow](images/wireframe.png)
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+1 - Ao entrar no site o usuário poderá criar sua conta, entrar em uma já criada, ver os planos que oferecemos, ver os tipos de controles de investimentos que mexemos com e ler sobre nossa empresa. 
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![](images/pag-inicial.png)
+
+2 - Essa página conta sobre quem somos e o por quê de criarmos esse projeto.
+
+![](images/sobre-nos.png)
+
+3 - Nessa página listaremos os tipos de investimentos que são possíveis de realizar em nosso site.
+
+![](images/investimentos.png)
+
+4 - Essa página apresenta todos os serviços que oferecemos e os planos de aquisição para eles.
+
+![](images/planos.png)
+
+5 - Ao clicar em Entrar o usuário irá ser direcionado ao uma página na qual ele colocará seus dados de entrada.
+
+![](images/entrar.png)
+
+5 - Ao clicar o usuário irá ser direcionado ao uma página na qual ele colocará seus dados para criar uma conta.
+
+![](images/cadastro.png)
+
+6 - Após se cadastrar o usuário irá preencher um formulário com mais dados para o nosso sistema criar um perfil para ele.
+
+![](images/formulário.png)
+
+7 - Após clicar em entrar, ou ter feito o processo de cadastro e preenchimento do formulário, o usuário estará apto a utilizar os serviços disponibilizados no nosso sistema.
+
+![](images/planejamento.png)
 
 
 # Metodologia
