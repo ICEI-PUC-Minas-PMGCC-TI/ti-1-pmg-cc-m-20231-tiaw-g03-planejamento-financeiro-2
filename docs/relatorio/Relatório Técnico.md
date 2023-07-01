@@ -367,7 +367,6 @@ Interações do usuário com o sistema
 
 # Referências
 
-> 
 > **Links Úteis**:
 > - [Notícia da BBC Brasil](https://www.bbc.com/portuguese/articles/c257e50r9rlo)
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
