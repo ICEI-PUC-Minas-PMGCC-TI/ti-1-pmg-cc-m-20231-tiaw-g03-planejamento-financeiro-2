@@ -40,7 +40,6 @@ Vinícius Miranda de Araújo e Yago Almeida
   - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
@@ -281,40 +280,46 @@ Interações do usuário com o sistema
 
 ## Plano de Testes
 
-1. Cenário: Registro de despesas mensais
+1. Cenário: Registro de despesas mensais:
+ 
 Funcionalidade: Capacidade de inserir e categorizar despesas mensais.
+
 Grupo de usuários: Indivíduos que desejam controlar e categorizar suas despesas pessoais.
+
 Ferramentas utilizadas: Emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes (por exemplo, Selenium ou Cypress).
 
-2. Cenário: Definição de metas financeiras
+2. Cenário: Definição de metas financeiras:
+   
 Funcionalidade: Permitir que os usuários definam metas financeiras específicas, como economizar para uma viagem ou comprar uma casa.
+
 Grupo de usuários: Pessoas que desejam estabelecer e acompanhar metas financeiras de curto e longo prazo.
+
 Ferramentas utilizadas: Navegador web, ferramentas de automação de testes.
 
-3. Cenário: Geração de relatórios de orçamento
+3. Cenário: Geração de relatórios de orçamento:
+   
 Funcionalidade: Gerar relatórios visuais que mostram o orçamento atual, comparando receitas e despesas.
+
 Grupo de usuários: Pessoas que buscam uma visão geral das suas finanças.
+
 Ferramentas utilizadas: Navegador web, ferramentas de automação de testes.
 
-4. Cenário: Alertas de gastos excessivos
+4. Cenário: Alertas de gastos excessivos:
+
 Funcionalidade: Enviar alertas aos usuários quando eles estão prestes a exceder seus limites de gastos em determinada categoria.
+
 Grupo de usuários: Pessoas que desejam manter seus gastos sob controle.
+
 Ferramentas utilizadas: Emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes.
 
-5. Cenário: Acesso seguro aos dados financeiros
+5. Cenário: Acesso seguro aos dados financeiros:
+   
 Funcionalidade: Garantir que a autenticação e a segurança dos dados financeiros dos usuários sejam adequadamente implementadas.
+
 Grupo de usuários: Pessoas preocupadas com a privacidade de suas informações financeiras.
+
 Ferramentas utilizadas: Navegador web, ferramentas de teste de segurança.
 
-## Ferramentas de Testes (Opcional)
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
