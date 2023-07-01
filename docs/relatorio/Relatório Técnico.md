@@ -281,17 +281,30 @@ Interações do usuário com o sistema
 
 ## Plano de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Cenário: Registro de despesas mensais
+Funcionalidade: Capacidade de inserir e categorizar despesas mensais.
+Grupo de usuários: Indivíduos que desejam controlar e categorizar suas despesas pessoais.
+Ferramentas utilizadas: Emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes (por exemplo, Selenium ou Cypress).
 
-> Enumere quais cenários de testes foram selecionados para teste. Neste
-> tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo
-> de usuários que foi escolhido para participar do teste e as
-> ferramentas utilizadas.
-> 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
+2. Cenário: Definição de metas financeiras
+Funcionalidade: Permitir que os usuários definam metas financeiras específicas, como economizar para uma viagem ou comprar uma casa.
+Grupo de usuários: Pessoas que desejam estabelecer e acompanhar metas financeiras de curto e longo prazo.
+Ferramentas utilizadas: Navegador web, ferramentas de automação de testes.
+
+3. Cenário: Geração de relatórios de orçamento
+Funcionalidade: Gerar relatórios visuais que mostram o orçamento atual, comparando receitas e despesas.
+Grupo de usuários: Pessoas que buscam uma visão geral das suas finanças.
+Ferramentas utilizadas: Navegador web, ferramentas de automação de testes.
+
+4. Cenário: Alertas de gastos excessivos
+Funcionalidade: Enviar alertas aos usuários quando eles estão prestes a exceder seus limites de gastos em determinada categoria.
+Grupo de usuários: Pessoas que desejam manter seus gastos sob controle.
+Ferramentas utilizadas: Emulador de dispositivo móvel ou navegador web, ferramentas de automação de testes.
+
+5. Cenário: Acesso seguro aos dados financeiros
+Funcionalidade: Garantir que a autenticação e a segurança dos dados financeiros dos usuários sejam adequadamente implementadas.
+Grupo de usuários: Pessoas preocupadas com a privacidade de suas informações financeiras.
+Ferramentas utilizadas: Navegador web, ferramentas de teste de segurança.
 
 ## Ferramentas de Testes (Opcional)
 
@@ -305,12 +318,35 @@ Interações do usuário com o sistema
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Registro de despesas mensais:
 
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
+Pontos fortes: Os usuários conseguem inserir e categorizar despesas de forma fácil e intuitiva. As funcionalidades de adicionar, editar e excluir despesas funcionam corretamente.
+Pontos fracos: Pode haver dificuldades de usabilidade para alguns usuários ao inserir despesas, especialmente em dispositivos móveis com telas menores.
+Melhorias futuras: Realizar testes de usabilidade adicionais para identificar os pontos problemáticos específicos. Ajustar a interface do usuário para facilitar a inserção de despesas em dispositivos móveis, considerando layouts responsivos e elementos de entrada simplificados.
+
+2. Definição de metas financeiras:
+
+Pontos fortes: Os usuários conseguem definir metas financeiras com clareza. A funcionalidade de acompanhamento do progresso da meta está funcionando corretamente.
+Pontos fracos: Alguns usuários podem ter dificuldades em entender como definir metas ou podem sentir falta de recursos visuais para acompanhar o progresso.
+Melhorias futuras: Aprimorar a orientação do usuário durante o processo de definição de metas, fornecendo exemplos ou dicas contextualizadas. Adicionar gráficos ou indicadores visuais para mostrar o progresso das metas estabelecidas.
+
+3. Geração de relatórios de orçamento:
+
+Pontos fortes: Os relatórios de orçamento são gerados com precisão e fornecem uma visão clara das receitas e despesas.
+Pontos fracos: Alguns usuários podem ter dificuldades em interpretar os relatórios ou podem sentir falta de recursos adicionais, como comparação com períodos anteriores ou gráficos interativos.
+Melhorias futuras: Realizar testes de usabilidade para entender as dificuldades encontradas pelos usuários na interpretação dos relatórios. Adicionar recursos adicionais, como comparação de períodos anteriores, gráficos interativos ou até mesmo sugestões de melhorias com base nos padrões identificados nos dados financeiros.
+
+4. Alertas de gastos excessivos:
+
+Pontos fortes: Os usuários recebem alertas quando estão prestes a exceder seus limites de gastos em determinadas categorias.
+Pontos fracos: Alguns usuários podem sentir que os alertas são intrusivos ou não suficientemente personalizados.
+Melhorias futuras: Coletar feedback dos usuários sobre a frequência e o conteúdo dos alertas. Permitir que os usuários personalizem suas configurações de alerta de acordo com suas preferências individuais.
+
+5. Acesso seguro aos dados financeiros:
+
+Pontos fortes: A autenticação e a segurança dos dados financeiros dos usuários estão adequadamente implementadas.
+Pontos fracos: Alguns usuários podem ter preocupações adicionais em relação à privacidade de suas informações financeiras ou podem sentir falta de recursos para proteção adicional, como autenticação de dois fatores.
+Melhorias futuras: Fornecer transparência adicional sobre as medidas de segurança implementadas. Oferecer recursos opcionais, como autenticação de dois fatores, para aqueles que desejam uma camada extra de proteção.
 
 
 # Referências
