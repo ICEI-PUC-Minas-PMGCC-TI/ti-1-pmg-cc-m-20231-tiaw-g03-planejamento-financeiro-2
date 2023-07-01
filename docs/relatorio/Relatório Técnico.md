@@ -239,20 +239,28 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Nosso projeto utiliza das seguintes tecnologias:
+- Linguagem de Marcação: HTML
+- Linguagem de Estilo: CSS
+- Linguagem de Programação JavaScript
+- Bibliotecas: Bootstrap e JQuery
+- Serviços Web: Google Charts
+- IDE: Microsoft Visual Studio Code (VsCode)
+- Ferramentas: 
+- Controle de Versão: Git e GitHub
+- API: Local Storage
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+Interações do usuário com o sistema
+
+1. O usuário abre o index.html no navegador.
+2. Na página index.html, o usuário pode escolher entre ir para a página de cadastro (cadastro.html) ou para a página de login (login.html).
+3. Se o usuário clicar no link para o cadastro.html, o navegador carregará a página cadastro.html e seu respectivo arquivo JS, cadastro.js. Essa página permitirá que o usuário insira informações de cadastro.
+4. Se o usuário preencher os campos de cadastro e clicar no botão "Cadastrar", o cadastro.js será acionado para armazenar as informações no LocalStorage. Uma mensagem de confirmação pode ser exibida ao usuário.
+5. Se o usuário clicar no link para o login.html a partir do cadastro.html, o navegador carregará a página login.html e seu respectivo arquivo JS, login.js.
+6. Na página login.html, o usuário pode inserir suas informações de login.
+7. Se o usuário preencher corretamente os campos de login e clicar no botão "Entrar", o login.js será acionado para verificar as informações no LocalStorage. Se as informações de login estiverem corretas, o usuário será redirecionado para a página home.html através de um redirecionamento do navegador.
+8. A página home.html também terá seu arquivo JS correspondente, home.js, que pode ser usado para exibir conteúdo específico do usuário ou realizar outras operações relacionadas à página inicial.
+9. A interação do usuário com a página home.html dependerá dos recursos e funcionalidades específicos implementados no arquivo JS home.js.
 
 ## Arquitetura da solução
 
