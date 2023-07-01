@@ -260,14 +260,12 @@ Interações do usuário com o sistema
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
-
-> Inclua um diagrama da solução e descreva os módulos e as tecnologias
-> que fazem parte da solução. Discorra sobre o diagrama.
+Diagrama de Arquitetura:
 > 
-> **Exemplo do diagrama de Arquitetura**:
-> 
-> ![Exemplo de Arquitetura](images/arquitetura.png)
+> ![Arquitetura](images/arquitetura.png)
+=======
+![Arquitetura](images/arquitetura-exemplo.png)
+>>>>>>> 099bea1b7d485d63a8b4b679bbfc000873684014
 
 
 # Avaliação da Aplicação
@@ -330,7 +328,7 @@ Interações do usuário com o sistema
 
 - Pontos fracos: Pode haver dificuldades de usabilidade para alguns usuários ao inserir despesas, especialmente em dispositivos móveis com telas menores.
 
-Melhorias futuras: Realizar testes de usabilidade adicionais para identificar os pontos problemáticos específicos. Ajustar a interface do usuário para facilitar a inserção de despesas em dispositivos móveis, considerando layouts responsivos e elementos de entrada simplificados.
+- Melhorias futuras: Realizar testes de usabilidade adicionais para identificar os pontos problemáticos específicos. Ajustar a interface do usuário para facilitar a inserção de despesas em dispositivos móveis, considerando layouts responsivos e elementos de entrada simplificados.
 
 2. Definição de metas financeiras:
 
@@ -354,7 +352,7 @@ Melhorias futuras: Realizar testes de usabilidade adicionais para identificar os
 
 - Pontos fracos: Alguns usuários podem sentir que os alertas são intrusivos ou não suficientemente personalizados.
 
-Melhorias futuras: Coletar feedback dos usuários sobre a frequência e o conteúdo dos alertas. Permitir que os usuários personalizem suas configurações de alerta de acordo com suas preferências individuais.
+- Melhorias futuras: Coletar feedback dos usuários sobre a frequência e o conteúdo dos alertas. Permitir que os usuários personalizem suas configurações de alerta de acordo com suas preferências individuais.
 
 5. Acesso seguro aos dados financeiros:
 
@@ -367,7 +365,10 @@ Melhorias futuras: Coletar feedback dos usuários sobre a frequência e o conte�
 
 # Referências
 
+<<<<<<< HEAD
 > Conteúdo disponibilizados pelos professoes da disciplina. 
 > 
+=======
+>>>>>>> 099bea1b7d485d63a8b4b679bbfc000873684014
 > **Links Úteis**:
 > - [Notícia da BBC Brasil](https://www.bbc.com/portuguese/articles/c257e50r9rlo)
