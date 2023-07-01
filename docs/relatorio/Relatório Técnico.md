@@ -261,11 +261,9 @@ Interações do usuário com o sistema
 ## Arquitetura da solução
 
 Diagrama de Arquitetura:
-> 
-> ![Arquitetura](images/arquitetura.png)
-=======
-![Arquitetura](images/arquitetura-exemplo.png)
->>>>>>> 099bea1b7d485d63a8b4b679bbfc000873684014
+
+![Arquitetura](images/arquitetura.png)
+
 
 
 # Avaliação da Aplicação
