@@ -40,7 +40,6 @@ Vinícius Miranda de Araújo e Yago Almeida
   - [Arquitetura da solução](#arquitetura-da-solução)
 - [Avaliação da Aplicação](#avaliação-da-aplicação)
   - [Plano de Testes](#plano-de-testes)
-  - [Ferramentas de Testes (Opcional)](#ferramentas-de-testes-opcional)
   - [Registros de Testes](#registros-de-testes)
 - [Referências](#referências)
 
@@ -306,15 +305,7 @@ Funcionalidade: Garantir que a autenticação e a segurança dos dados financeir
 Grupo de usuários: Pessoas preocupadas com a privacidade de suas informações financeiras.
 Ferramentas utilizadas: Navegador web, ferramentas de teste de segurança.
 
-## Ferramentas de Testes (Opcional)
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Comente sobre as ferramentas de testes utilizadas.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
 
 ## Registros de Testes
 
