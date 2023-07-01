@@ -363,10 +363,5 @@ Diagrama de Arquitetura:
 
 # Referências
 
-<<<<<<< HEAD
-> Conteúdo disponibilizados pelos professoes da disciplina. 
-> 
-=======
->>>>>>> 099bea1b7d485d63a8b4b679bbfc000873684014
-> **Links Úteis**:
-> - [Notícia da BBC Brasil](https://www.bbc.com/portuguese/articles/c257e50r9rlo)
+Conteúdo disponibilizados pelos professoes da disciplina. 
+
