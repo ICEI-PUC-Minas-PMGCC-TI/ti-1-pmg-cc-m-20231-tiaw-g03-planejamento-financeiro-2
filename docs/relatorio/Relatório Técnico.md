@@ -267,7 +267,7 @@ Interações do usuário com o sistema
 > 
 > **Exemplo do diagrama de Arquitetura**:
 > 
-> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+> ![Exemplo de Arquitetura](images/arquitetura.png)
 
 
 # Avaliação da Aplicação
@@ -367,8 +367,7 @@ Melhorias futuras: Coletar feedback dos usuários sobre a frequência e o conte�
 
 # Referências
 
+> Conteúdo disponibilizados pelos professoes da disciplina. 
 > 
 > **Links Úteis**:
 > - [Notícia da BBC Brasil](https://www.bbc.com/portuguese/articles/c257e50r9rlo)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
