@@ -351,10 +351,6 @@ Melhorias futuras: Fornecer transparência adicional sobre as medidas de seguran
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
 > 
 > **Links Úteis**:
 > - [Notícia da BBC Brasil](https://www.bbc.com/portuguese/articles/c257e50r9rlo)
