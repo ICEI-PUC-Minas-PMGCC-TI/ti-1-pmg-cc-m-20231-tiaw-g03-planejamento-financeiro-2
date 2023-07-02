@@ -276,6 +276,8 @@ Interações do usuário com o sistema
 
 ## Arquitetura da solução
 
+Para garantir a segurança do nosso web app, utilizaremos uma arquitetura em camadas. A camada de apresentação será responsável por receber as requisições dos usuários e enviar as respostas. A camada de aplicação será responsável por processar as requisições e gerenciar as regras de negócio. E a camada de dados será responsável por armazenar e recuperar os dados do sistema.
+
 Diagrama de Arquitetura:
 
 ![Arquitetura](images/arquitetura.png)
