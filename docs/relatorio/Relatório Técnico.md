@@ -192,6 +192,18 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
+Para o desenvolvimento do nosso web app, adotaremos a metodologia ágil, que nos permitirá entregar o produto de forma incremental por meio de ciclos curtos de desenvolvimento, conhecidos como sprints.
+
+Além disso, utilizaremos práticas complementares para garantir a qualidade do software:
+
+1. Testes de Integração: Realizaremos testes para verificar a integração adequada dos componentes do sistema. Isso nos ajudará a identificar e corrigir problemas de interação entre os diferentes módulos do web app.
+
+2. Revisões de Código: Faremos revisões de código entre os membros da equipe para garantir que o código esteja bem estruturado, seguindo as melhores práticas e evitando possíveis erros. Essa prática promove a troca de conhecimentos e a melhoria contínua da qualidade do código.
+
+3. Integração Contínua: Implementaremos um processo de integração contínua, no qual todas as alterações de código serão integradas regularmente em um ambiente compartilhado. Isso nos permitirá identificar e resolver problemas de integração de forma mais rápida, além de realizar testes automatizados para garantir a estabilidade do aplicativo em todas as fases do desenvolvimento.
+
+Com essa abordagem, buscamos garantir que as funcionalidades do web app estejam funcionando corretamente desde o início e evitar a ocorrência de problemas futuros. Dessa forma, poderemos entregar um produto de alta qualidade aos nossos usuários.
+
 Nós utilizamos o método Scrum, divindo o nosso projeto em 4 Sprints e fazemos reuniões diárias para discurtir o que fizemos e o que vamos fazer. Então, dado que o somos apenas duas pessoas no projeto, dividimos as tarefas meio a meio de modo que nenhuma das partes fique sobrecarregada e que seja possível realizar as funções da melhor maneira posível.
 
 Além disso, em relação as ferramentas, utilizamos as ferramentas sugeridas pelos nossos mentores, são elas: o [Miro](https://miro.com), o [GitHub](https://github.com) e o [Figma](https://www.figma.com).
