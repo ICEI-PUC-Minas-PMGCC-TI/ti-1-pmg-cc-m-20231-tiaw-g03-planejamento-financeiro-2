@@ -39,11 +39,11 @@ function handleLinkClick(event, elementId, arquivo, scriptUrl) {
     carregarHTML(arquivo, elementId, scriptUrl);
 }
 
-// Adiciona o evento de clique ao link
+/*// Adiciona o evento de clique ao link
 var linkCarregar1 = document.getElementById('linkCarregar1');
 linkCarregar1.addEventListener('click', function(event) {
     handleLinkClick(event, 'conteudo1', 'grafico.html','grafico.js'); //PRONTO
-});
+});*/
 
 // Adiciona o evento de clique ao link
 var linkCarregar2 = document.getElementById('linkCarregar2');
@@ -57,8 +57,8 @@ linkCarregar3.addEventListener('click', function(event) {
     handleLinkClick(event, 'conteudo3', 'cartão.html','cartão.js'); //PRONTO
 });
 
-// Adiciona o evento de clique ao link
+/*// Adiciona o evento de clique ao link
 var linkCarregar4 = document.getElementById('linkCarregar4');
 linkCarregar4.addEventListener('click', function(event) {
     handleLinkClick(event, 'conteudo4', 'notificacoes.html', 'notificacoes.js'); //PRONTO
-});
+});*/
