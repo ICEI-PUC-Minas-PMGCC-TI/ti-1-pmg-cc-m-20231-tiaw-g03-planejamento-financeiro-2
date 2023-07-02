@@ -232,6 +232,10 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 
 # Projeto da Solução
 
+Nossa proposta de solução envolve o desenvolvimento de um web app que permitirá às pessoas fazer um planejamento financeiro completo e eficiente. O app terá uma interface intuitiva e fácil de usar, permitindo que os usuários insiram suas receitas e despesas mensais, bem como seus objetivos financeiros de curto e longo prazo.
+
+Além disso, o web app também oferecerá ferramentas de análise e previsão, permitindo que os usuários visualizem seus gastos e receitas em gráficos e tabelas detalhadas. Com essas informações, eles poderão tomar decisões financeiras mais informadas e eficientes, garantindo que seu dinheiro seja utilizado da melhor forma possível.
+
 
 ## Tecnologias Utilizadas
 
